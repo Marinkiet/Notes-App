@@ -1,5 +1,6 @@
 # Notes-App
 <h2>Link: https://marinkiet.github.io/Notes-App/</h2>
+<p>Saves the data on user local web storage</p>
 <br>
 <h3>Add new note </h3>
 <br>
@@ -11,7 +12,7 @@
 <br>
 ![image](https://user-images.githubusercontent.com/69327534/170588559-e00f89c0-45a8-404b-9f67-9edacf74f5d8.png)
 <br>
-<h3>Edit note</h3?
+<h3>Edit note</h3>
 <br>
   ![image](https://user-images.githubusercontent.com/69327534/170588666-3ca8bdeb-1ef3-436f-b9f0-7e9f729d78ac.png)
 <br>
