@@ -2,11 +2,13 @@
 <h2>Link: https://marinkiet.github.io/Notes-App/</h2>
 <br>
 <h3>Add new note </h3>
+<br>
 ![image](https://user-images.githubusercontent.com/69327534/170588326-001f1491-084c-4d48-9508-ceca7f894bf1.png)
 <br>
 ![image](https://user-images.githubusercontent.com/69327534/170588428-d8f3e091-4f6e-46e7-ac8b-f04cb5873302.png)
 <br>
 <h3>Add new note with title</h3>
+<br>
 ![image](https://user-images.githubusercontent.com/69327534/170588559-e00f89c0-45a8-404b-9f67-9edacf74f5d8.png)
 <br>
 <h3>Edit note</h3?
