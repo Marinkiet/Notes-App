@@ -112,6 +112,7 @@ header ,
     transform: scale(0);
     transform-origin: bottom right;
     transition: transform 0.2s ease;
+    z-index: 1;
 }
 .settings.show .menu{
     transform: scale(1);
