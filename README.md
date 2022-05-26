@@ -4,7 +4,7 @@
 <br>
 <h3>Add new note </h3>
 <br>
-<img src="(https://user-images.githubusercontent.com/69327534/170588326-001f1491-084c-4d48-9508-ceca7f894bf1.png)">
+![image](https://user-images.githubusercontent.com/69327534/170588326-001f1491-084c-4d48-9508-ceca7f894bf1.png)
 <br>
 ![image](https://user-images.githubusercontent.com/69327534/170588428-d8f3e091-4f6e-46e7-ac8b-f04cb5873302.png)
 <br>
